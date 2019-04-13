@@ -5,8 +5,12 @@ Using HttpClientModule and Rxjs
 
 ## How to use
 You can choose from downstairs.
-1. You can start your angular project from this project.
-２. copy service/http.service.ts and service/jsonConvert.service.ts code into your current Angular project as a service.
+
+### Just download it.
+You can start your angular project from this project.
+
+### Copy the http service file into your Current Project
+copy /src/app/service/http.service.ts and jsonConvert.service.ts code into your current Angular project as a service.
 
 ## Before you start 
 Setup http.service.ts
