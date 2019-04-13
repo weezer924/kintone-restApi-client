@@ -9,12 +9,12 @@ You can choose from downstairs.
 ### Just download it.
 You can start your angular project from this project.
 
-### Copy the http service file into your Current Project
+### Or Copy the http service file into your Current Project.
 copy /src/app/service/http.service.ts and jsonConvert.service.ts code into your current Angular project as a service.
 
 ## Before you start 
 Setup http.service.ts
-1. apiUrl as your kintone API URL.
+1. input apiUrl as your kintone API URL.
 2. x-api-key in HttpHeaders with your kintone API URL.
 3. You're ready to go.
 
