@@ -1,4 +1,5 @@
 # kintone-restApi-client
+This is a OSS project. Start by jakushin.cho(githubid: weezer924)
 restApi Client for kintone with different languages.
 
 # Release Notes
